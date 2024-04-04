@@ -1,4 +1,4 @@
-# Demo 2
+# <align = "Center">Machine Learning Projects
 
 Some text
 
